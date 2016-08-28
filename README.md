@@ -1,0 +1,2 @@
+# SlasherFlick-
+JavaScript Algorithim
